@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import CalculatorComp from './components/Calculator/Calculator';
+import TicTacToe from './components/TicTacToe/TicTacToe';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CalculatorComp />
+        <TicTacToe />
       </header>
     </div>
   );
